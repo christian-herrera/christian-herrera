@@ -26,9 +26,12 @@ Soy Ingeniero Electrónico (en progreso...) y trabajo en el área de Calibracion
 </div>
 <br>
 
+
+<!-- 
 ## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=christian-herrera&theme=shadow_blue&hide_border=true&include_all_commits=true&show_icons=true&text_color=9198a1&icon_color=2f80ed&custom_title=Estadísticas&rank_icon=github" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-herrera&theme=shadow_blue&hide_border=true&include_all_commits=true&layout=compact&text_color=9198a1&custom_title=Tecnologías%20más%20utilizadas" alt="Top Languages">
 </div>
+-->
